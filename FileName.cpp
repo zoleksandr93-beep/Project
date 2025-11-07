@@ -1,5 +1,5 @@
 #include <iostream>   
-#include <math.h>     
+#include <math.h>     //підключення бібліотек
 using namespace std;
 int main()
 {
