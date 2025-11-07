@@ -3,7 +3,7 @@
 using namespace std;
 int main()
 {
-    double d, z, a;             
+    double d, z, a;             //¬в≥д зм≥нних
     cout << "Vvedit d:";        
     cin >> d;
     cout << "Vvedit z:";
