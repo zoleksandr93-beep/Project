@@ -6,7 +6,7 @@ int main()
     double d, z, a;             //¬в≥д зм≥нних
     cout << "Vvedit d:";        
     cin >> d;
-    cout << "Vvedit z:";
+    cout << "Vvedit z:"/endl;
     cin >> z;
     cout << "Vvedit a:";
     cin >> a;
